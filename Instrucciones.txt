@@ -1,0 +1,5 @@
+Usted deberá gestionar las excepciones de cada uno de los metodos de la clase Excepciones.
+Posteriormente a eso, deberá realizar las pruebas unitarias con los datos entregados en la clase Datos.
+Los datos estan estructurados en funcion del metodo de la clase Excepciones al que corresponden. Se diferencia entre 
+los datos reales que debería entregar el programa (resultadosX) y las estructuras del problema (palabrasX o numerosX). 
+Una vez realizado lo anterior comente sus resultados.
